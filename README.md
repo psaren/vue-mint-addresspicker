@@ -1,6 +1,8 @@
 # address-picker
 
-> A Vue.js project
+> 基于vue和mint-ui的三级地址联动选择组件
+
+> 手机模式下查看 [demo](fontend.com/demo/address-picker)
 
 ## Build Setup
 
@@ -16,12 +18,3 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
