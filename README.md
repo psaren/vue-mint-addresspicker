@@ -2,7 +2,7 @@
 
 > 基于vue和mint-ui的三级地址联动选择组件
 
-> 手机模式下查看 [demo](fontend.com/demo/address-picker)
+> 请在手机调试模式下查看 [demo](http://fontend.com/demo/address-picker/)
 
 ## Build Setup
 
