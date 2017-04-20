@@ -86,6 +86,7 @@
       },
       init(val) {
         this.initVal = val
+        this.initAddress()
       }
     },
     methods: {
