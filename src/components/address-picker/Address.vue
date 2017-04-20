@@ -83,6 +83,9 @@
     watch: {
       showAddressPicker(old, val) {
         this.show = !val
+      },
+      init(val) {
+        this.initVal = val
       }
     },
     methods: {
