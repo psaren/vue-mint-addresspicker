@@ -9,7 +9,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "mint-ui": "^2.1.1",
+    "mint-ui": "2.1.1",
     "vue": "2.1.10",
     "vue-router": "^2.2.0",
     "vue-template-compiler": "2.1.10"
